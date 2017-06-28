@@ -1,0 +1,16 @@
+<HTML>
+<HEAD><TITLE>Error</TITLE></HEAD>
+<BODY>
+<H1>Error</H1>
+<BLOCKQUOTE><B>
+<HR SIZE=4><P>
+The requested item could not be loaded by the proxy.<P>
+Unable to locate file on the FTP server.
+The link you have followed is likely to be incorrect.<P>
+
+<HR SIZE=4>
+</B></BLOCKQUOTE>
+
+<P>
+<ADDRESS>Proxy server at ilproxy.ans.net on port 80</ADDRESS>
+</BODY></HTML>
